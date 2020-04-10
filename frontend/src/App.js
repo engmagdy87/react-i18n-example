@@ -26,7 +26,7 @@ const App = () => {
       {/* https://react.i18next.com/latest/trans-component (2.2) */}
       <p>
         <Trans i18nKey="welcome:content.textTwo">
-          Welcome at <strong>our place</strong>.
+          <em>Welcome at</em><strong>our place</strong>.
         </Trans>
       </p>
     </div>

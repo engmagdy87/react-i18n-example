@@ -2,6 +2,6 @@
   "title": "Hello React",
   "content": {
     "textOne": "Welcome at our place.",
-    "textTwo": "Welcome at <1>our place</1>."
+    "textTwo": "<0>Welcome at</0> <1>our place</1>."
   }
 }
